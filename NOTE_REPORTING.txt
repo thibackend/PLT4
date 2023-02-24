@@ -1,0 +1,40 @@
+In a report, a record refers to a set of data that is related to a specific entity or subject. A record typically contains a group of fields or attributes that describe various aspects of the entity or subject being reported on.
+
+For example, in a sales report, a record may represent a single transaction or sale, and the fields within the record could include information such as the date of the sale, the customer's name, the product sold, and the sale amount.
+
+In a database or spreadsheet, records are typically organized into rows, with each row representing a single record. When generating a report from a database or spreadsheet, records can be filtered, sorted, and grouped based on specific criteria to help present the data in a meaningful way.
+Dưới đây là một ví dụ về chart trong một báo cáo:
+
+Báo cáo doanh số bán hàng
+
+Trong tháng 10, công ty ABC đã bán các sản phẩm sau đây:
+
+Sản phẩm A: 500 đơn hàng
+Sản phẩm B: 250 đơn hàng
+Sản phẩm C: 300 đơn hàng
+Sản phẩm D: 150 đơn hàng
+Để hiển thị thông tin này một cách rõ ràng và trực quan hơn, chúng ta có thể tạo một biểu đồ cột như sau:
+
+Bar Chart Example
+
+Biểu đồ cột này cho thấy tổng số đơn hàng của từng sản phẩm. Sản phẩm A là sản phẩm bán chạy nhất trong tháng 10 với 500 đơn hàng, trong khi đó sản phẩm D là sản phẩm bán ít nhất với 150 đơn hàng.
+
+Biểu đồ cột giúp người đọc dễ dàng so sánh số lượng đơn hàng của các sản phẩm khác nhau và đánh giá hiệu suất kinh doanh của công ty trong tháng 10.
+Dưới đây là một ví dụ về bảng trong báo cáo:
+
+Báo cáo tổng kết chi phí phát triển sản phẩm
+
+Tên sản phẩm	Chi phí nghiên cứu và phát triển	Chi phí sản xuất	Tổng chi phí
+Sản phẩm A	100.000 USD	50.000 USD	150.000 USD
+Sản phẩm B	75.000 USD	60.000 USD	135.000 USD
+Sản phẩm C	90.000 USD	40.000 USD	130.000 USD
+Trong bảng này, chúng ta liệt kê các sản phẩm và chi phí nghiên cứu, phát triển, chi phí sản xuất, và tổng chi phí cho mỗi sản phẩm. Bảng này có thể giúp người đọc thấy được chi phí phát triển và sản xuất của từng sản phẩm và so sánh giữa các sản phẩm.
+
+Thêm vào đó, bảng cũng cho phép chúng ta tính tổng chi phí của các sản phẩm để đánh giá tổng chi phí phát triển sản phẩm của công ty. Bảng này có thể được sử dụng trong báo cáo để trình bày thông tin về chi phí phát triển sản phẩm một cách dễ dàng và rõ ràng.
+Collect và Record đều là các thuật ngữ được sử dụng trong báo cáo hoặc hệ thống quản lý cơ sở dữ liệu. Tuy nhiên, chúng có ý nghĩa khác nhau như sau:
+
+Collect: Thuật ngữ "collect" được sử dụng để chỉ việc thu thập thông tin hoặc dữ liệu từ nhiều nguồn khác nhau. Ví dụ, trong báo cáo về khảo sát khách hàng, chúng ta có thể thu thập thông tin từ nhiều nguồn khác nhau như các khảo sát trực tuyến, cuộc gọi điện thoại, thăm khách hàng, v.v. Điều quan trọng là thu thập đầy đủ thông tin từ tất cả các nguồn này để có một báo cáo toàn diện và chính xác.
+
+Record: Thuật ngữ "record" được sử dụng để chỉ một tập hợp dữ liệu liên quan đến một thực thể hay chủ đề cụ thể. Mỗi record bao gồm các trường dữ liệu tương ứng với các thuộc tính của thực thể đó. Ví dụ, trong một báo cáo doanh số bán hàng, mỗi record có thể tương ứng với một đơn hàng cụ thể và bao gồm các trường dữ liệu như ngày đặt hàng, tên khách hàng, sản phẩm đặt hàng, số lượng sản phẩm và giá trị đơn hàng.
+
+Tóm lại, collect và record đều liên quan đến việc xử lý dữ liệu trong báo cáo hoặc hệ thống quản lý cơ sở dữ liệu, nhưng có mục đích và ý nghĩa khác nhau. Collect liên quan đến việc thu thập dữ liệu từ nhiều nguồn khác nhau, trong khi record liên quan đến việc lưu trữ và sắp xếp các dữ liệu liên quan đến một thực thể hay chủ đề cụ thể.
